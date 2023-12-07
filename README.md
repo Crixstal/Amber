@@ -11,6 +11,31 @@
 
 ## **Informations**
 
-This project allowed us to work in a more advanced way with Game Artists to discover the Tech Art profession.
-
 https://user-images.githubusercontent.com/91843760/221691990-d9fb5e08-572e-4160-924d-49849545b720.mp4
+
+The goal of the project was to showcase technical features using Unreal Engine materials, Niagara system and housemade rendering tools.
+
+# Summary
+1. [Features](#features)
+2. [Controls](#controls)
+3. [References](#references)
+
+## Features
+- Sandstorm (with fog)
+- Quicksands
+- Animal life (giant worms, geckos)
+- Footprints
+- Other effects (sand decals, sand trails...)
+
+## Controls
+The controls are made for keyboard only:
+- WASD - Move the player
+- Mouse movements - Rotate the player
+
+## References
+- https://tandreades.com/projects/KrgYdR 
+- https://www.youtube.com/watch?v=o-MXAmfCY5U
+- https://www.youtube.com/watch?v=GhtZK8J2LcM
+- https://www.youtube.com/watch?v=uHDMj0-i8BY
+- https://www.youtube.com/watch?v=7nNxkKA5g5A
+- https://www.youtube.com/watch?v=HoeTIUf8Qs8&ab_channel=CodeLikeMe
